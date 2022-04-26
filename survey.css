@@ -1,0 +1,49 @@
+body {
+  background-image: url(bg.jpg);
+  background-attachment: fixed;
+  background-repeat: no repeat;
+  background-size: cover;
+}
+div {
+  background-color: rgba(0, 0, 255, 0.4);
+  margin: -29px;
+  background-attachment: fixed;
+  color: white;
+}
+#form {
+  background-color: rgba(5, 5, 27, 0.6);
+  font-size: 25px;
+  margin-top: 100px;
+  margin-right: 150px;
+  margin-left: 150px;
+  padding-top: 50px;
+  padding-left: 70px;
+  padding-bottom: 60px;
+}
+h1 {
+  padding-left: 357px;
+  font-size: 45px;
+}
+h3 {
+  padding-left: 242px;
+  font-size: 32px;
+}
+
+input,
+textarea,
+select {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.input,
+select {
+  height: 30px;
+  width: 350px;
+}
+button {
+  height: 55px;
+  width: 89%;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #3dc73d;
+}
